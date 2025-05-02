@@ -1,0 +1,11 @@
+streaming/equinoxe.ogg,1444273
+streaming/key.ogg,724992
+streaming/magneticCircuit.ogg,2449285
+streaming/calm5.ogg,4407208
+streaming/Eruption.ogg,1368310
+streaming/dog.ogg,1659657
+streaming/chirp.ogg,2256735
+mob/spectre1.ogg,12987
+mob/spectrehurt.ogg,8021
+mob/spectredeath.ogg,21603
+random/eating.ogg,5678
