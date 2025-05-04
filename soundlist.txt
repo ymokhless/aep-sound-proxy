@@ -8,4 +8,4 @@ streaming/chirp.ogg,2256735
 mob/spectre1.ogg,12987
 mob/spectrehurt.ogg,8021
 mob/spectredeath.ogg,21603
-random/eating.ogg,5678
+newsound/random/eating.ogg,5678
